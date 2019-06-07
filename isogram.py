@@ -5,6 +5,6 @@ for i in n:
         c.append(i)
 d="".join(map(str,c))
 if n==d:
-    print('yes')
+    print('Yes')
 else:
-    print('no')
+    print('No')
